@@ -4,6 +4,7 @@ Bu https://www.w3schools.com saytida Git o'quv qo'llanmasi uchun namuna omboridi
 HAMMASI YAXSHI AMALGA OSHDI
 Ushbu ombor qo'llanmada bosqichma-bosqich qurilgan.
 YANA BIR O`ZGARISH 
+ yana ozgarish qilamiz organish uchun
 
 gitni ozidan ozgartirish
 
