@@ -5,3 +5,4 @@ print(c)
 
 print("Salom Dunyo")
 print("yana ozgarish")
+print("mahallidan qoshaman")
