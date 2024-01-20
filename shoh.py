@@ -4,4 +4,4 @@ c = a + b
 print(c)
 
 print("Salom Dunyo")
-pirint("yana ozgarish")
+print("yana ozgarish")
