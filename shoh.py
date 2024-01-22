@@ -8,8 +8,10 @@ print("Salom Dunyo")
 print("yana ozgarish")
 print("mahallidan qoshaman")
 
+
 class MyClass:
   x = 5
 
 p1 = MyClass()
 print(p1.x)
+
