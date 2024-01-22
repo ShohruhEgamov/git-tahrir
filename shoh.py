@@ -3,6 +3,7 @@ b = 2
 c = a + b
 print(c)
 
+
 print("Salom Dunyo")
 print("yana ozgarish")
 print("mahallidan qoshaman")
