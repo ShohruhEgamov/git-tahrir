@@ -1,4 +1,4 @@
-a = 1
+'''a = 1
 b = 2
 c = a + b
 print(c)
@@ -6,16 +6,16 @@ print(c)
 
 print("Salom Dunyo")
 print("yana ozgarish")
-print("mahallidan qoshaman")
+print("mahallidan qoshaman")'''
 
 
-class MyClass:
+'''class MyClass:
   x = 5
 
 p1 = MyClass()
-print(p1.x)
+print(p1.x)'''
 
-class Person:
+'''class Person:
   def __init__(self, name, age):
     self.name = name
     self.age = age
@@ -23,9 +23,9 @@ class Person:
 p1 = Person("John", 36)
 
 print(p1.name)
-print(p1.age)
+print(p1.age)'''
 
-import json
+'''import json
 
 # some JSON:
 x = '{ "name":"John", "age":30, "city":"New York"}'
@@ -34,10 +34,10 @@ x = '{ "name":"John", "age":30, "city":"New York"}'
 y = json.loads(x)
 
 # the result is a Python dictionary:
-print(y["age"])
+print(y["age"])'''
 
 
-import json
+'''import json
 
 # a Python object (dict):
 x = {
@@ -50,4 +50,4 @@ x = {
 y = json.dumps(x)
 
 # the result is a JSON string:
-print(y)
+print(y)'''
